@@ -8,6 +8,8 @@ This is software for performing a simple detection using a trained cascade class
 
 USAGE:
 ./detect_simple -model <model.xml> -testfiles <list.txt> -detections <output.txt>
+
+Modified (MKC): Show detections and/or pause (using spacebar)
 ***********************************************************************************************/
 
 #include <iostream>
