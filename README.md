@@ -7,3 +7,7 @@
 ```
 
 Show detections and/or pause (using spacebar)
+
+## Screenshot:
+
+![](https://github.com/melvincabatuan/ObjectDetectionSimpleShow/blob/master/Selection_053.png)
